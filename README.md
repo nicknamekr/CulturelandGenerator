@@ -7,3 +7,7 @@
 - 깃허브 | https://nicknamekr.github.io/CulturelandGenerator
 - 코드펜 | https://codepen.io/nicknamekr/pen/YzOGbBr
 - 레플잇 | https://culturegen.seeun0917.repl.co
+
+## 추가 안내 사항
+1회성 개발 프로젝트로 더 이상 업데이트 되지 않습니다.<br>
+No Longer Update.
